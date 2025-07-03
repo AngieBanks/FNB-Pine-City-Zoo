@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.itvarsity.pinecityzoo"
+    VersionCode = "10"
+    Version     = "1.0.0">
+
+<name>Pine City Zoo</name>
+
+<description>
+    Explore the amazing Pine City Zoo
+    </description>    
+
+<author email="angela.morris@yahoo.com">
+    
+    </author>
+
+
+</widget>    
